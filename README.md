@@ -94,4 +94,9 @@ These articles explain the methodology and philosophy behind JARVIS:
 
 © 2026 [Hengshi](https://github.com/hengshi). All rights reserved.
 
-JARVIS is a paid consulting product. This skill is provided for licensed users to bootstrap their JARVIS knowledge base. For licensing and consulting inquiries, contact us via [chenjunhao.cn](https://chenjunhao.cn).
+JARVIS is a paid consulting product. This skill is provided for licensed users to bootstrap their JARVIS knowledge base.
+
+For licensing and consulting inquiries:
+- 🌐 [hengshi.com](https://hengshi.com)
+- 📧 hi@hengshi.com
+- 📞 15810120570

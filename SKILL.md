@@ -6,6 +6,18 @@
 
 ---
 
+## 参考文章（必读）
+
+在开始构建之前，阅读以下文章理解 JARVIS 的理念和方法论，避免方向跑偏：
+
+1. [为软件公司构建 JARVIS](https://chenjunhao.cn/2026/03/23/building-jarvis-for-software-companies/) — JARVIS 是什么、为什么要建、整体架构
+2. [为什么一次性 AI 编程实验看不到真实上限](https://chenjunhao.cn/2026/03/24/why-one-shot-ai-dev-experiments-cannot-reveal-the-real-upper-bound/) — 单次实验的局限性，JARVIS 解决的是持续积累问题
+3. [从 AI 写代码到 AI 驱动研发，差距就是 JARVIS](https://chenjunhao.cn/2026/03/24/from-ai-writing-code-to-ai-driven-r-and-d-the-gap-is-jarvis/) — AI 写代码 ≠ AI 驱动研发，JARVIS 是缺失的那一层
+4. [如何跑一个 AI 研发实验：验证的是闭环，不是代码产出](https://chenjunhao.cn/2026/03/24/how-to-run-an-ai-r-and-d-experiment-what-you-validate-is-loop-closure-not-code-output/) — 闭环（START→WORK→END）才是核心验证目标
+5. [JARVIS 与 Harness Engineering](https://chenjunhao.cn/2026/03/31/jarvis-and-harness-engineering/) — JARVIS 在工程体系中的定位
+
+---
+
 ## 什么是 JARVIS
 
 JARVIS 是一个 **agent-first 的产品知识库**。它不是给人看的文档，是给 AI agent 用的"大脑"。
